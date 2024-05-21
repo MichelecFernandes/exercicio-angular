@@ -11,6 +11,7 @@ import { MatTooltipModule } from '@angular/material/tooltip';
 import { RouterModule, RouterOutlet } from '@angular/router';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
+
 @Component({
   selector: 'app-main',
   standalone: true,
@@ -27,6 +28,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     MatExpansionModule, 
     MatTooltipModule,
     FontAwesomeModule
+    
   ],
   templateUrl: './main.component.html',
   styleUrl: './main.component.css'

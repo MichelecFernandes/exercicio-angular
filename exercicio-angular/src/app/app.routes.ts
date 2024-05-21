@@ -26,7 +26,7 @@ export const routes: Routes = [
 
           
       {
-        path: '',
+        path: 'home',
         component: HomeComponent,
 
       },
