@@ -13,7 +13,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 
 @Component({
-  selector: 'app-main',
+  selector: 'lds-main',
   standalone: true,
   imports: [
     RouterOutlet,
@@ -28,7 +28,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     MatExpansionModule, 
     MatTooltipModule,
     FontAwesomeModule
-    
+
   ],
   templateUrl: './main.component.html',
   styleUrl: './main.component.css'
