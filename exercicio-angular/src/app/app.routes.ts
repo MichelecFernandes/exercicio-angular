@@ -26,7 +26,7 @@ export const routes: Routes = [
 
           
       {
-        path: 'home',
+        path: '',
         component: HomeComponent,
 
       },
@@ -46,4 +46,4 @@ export const routes: Routes = [
     ]
   }
 
-];
+];  
