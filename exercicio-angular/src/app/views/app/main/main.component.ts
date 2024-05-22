@@ -36,6 +36,6 @@ import * as fontawesome from '@fortawesome/free-solid-svg-icons'
   styleUrl: './main.component.css'
 })
 export class MainComponent {
-  
+ 
 
 }
